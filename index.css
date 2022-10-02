@@ -1,0 +1,29 @@
+body {
+    background-color: #6495ED;
+}
+
+.container {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.container input {
+    background-color: #e1eef5;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 1px solid indigo;
+    width: 300px;
+}
+
+
+#submit-btn {
+    background-color: #0a467d;
+    width: 320px;
+    color: orange;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+
+}
